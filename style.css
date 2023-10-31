@@ -8,6 +8,8 @@ html,body{
 }
 .main{
     display: flex;
+     height: 100%;
+    width: 100%;
 }
 .con1{
     color:rgb(10, 87, 123) ;
